@@ -1,6 +1,11 @@
 Take snapshots of React Native views and cache to device storage.
 
-No Android support yet. PR welcome!
+
+# DEPRECATION NOTE
+
+This feature is being introduced to React Native core as of version 0.22.0.
+
+https://github.com/facebook/react-native/commit/ac12f986899d8520527684438f76299675dc0daa
 
 ## Installation
 
