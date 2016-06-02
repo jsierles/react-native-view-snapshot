@@ -2,7 +2,7 @@
   "name": "react-native-view-snapshot",
   "version": "0.0.1",
   "description": "Save React Native views as PNG snapshots on device storage.",
-  "main": "ViewSnapshotter.ios.js",
+  "main": "ViewSnapshotter.js",
   "author": {
     "name": "Joshua Sierles",
     "email": "joshua@diluvia.net",

@@ -1,14 +1,5 @@
 'use strict';
 
-var React = require('react-native');
-var {
-  NativeModules
-} = React;
-
-var NativeViewSnapshotter = NativeModules.ViewSnapshotter;
-
-var ViewSnapshotter = {
-  saveSnapshotToPath: NativeViewSnapshotter.saveSnapshotToPath
-};
+import ViewSnapshotter from './ViewSnapshotter';
 
 module.exports = ViewSnapshotter;
